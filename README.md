@@ -1,7 +1,4 @@
 # EmanBakery-HR-Alerts
-Centralized HR alerts and staff communication platform for Eman Bakery's workforce.
-
-# EmanBakery-HR-Alerts
 
 ## Project Objective
 A modern, highly dynamic internal HR dashboard and automated notification system for Eman Bakery. The app processes raw employee data exported directly from the "Muqeem" portal, manages automated expiry alerts (like Iqama validity), and sends customized notifications via Email and WhatsApp. 
